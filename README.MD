@@ -1,3 +1,9 @@
+# vote-deploy
+
+Kubernetes Deployment Code for Vote App
+
+This is a fork of https://github.com/sfd226/argo-labs
+
 ## Steps
 
 1. Install Docker, Kind, and KubeOpsView (Optional)
